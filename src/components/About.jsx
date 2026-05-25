@@ -1,4 +1,5 @@
 import { useInView } from '@/hooks/useInView';
+import { withBase } from '@/lib/basePath';
 
 export default function About({ about }) {
   const ref = useInView();
@@ -23,7 +24,7 @@ export default function About({ about }) {
         <div className="grid md:grid-cols-2 gap-12 lg:gap-20 items-center mb-20">
           <div className="animate-on-scroll relative">
             <img
-              src={about.image}
+              src={withBase(about.image)}
               alt={about.imageAlt}
               className="w-full h-[420px] object-cover"
               loading="lazy"

@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useInView } from '@/hooks/useInView';
+import { withBase } from '@/lib/basePath';
 
 export default function Gallery({ gallery }) {
   const ref = useInView();
@@ -26,7 +27,7 @@ export default function Gallery({ gallery }) {
               onClick={() => setLightbox(photo)}
             >
               <img
-                src={photo.src}
+                src={withBase(photo.src)}
                 alt={photo.alt}
                 className="w-full h-full object-cover min-h-[200px] md:min-h-[240px] transition-transform duration-700 group-hover:scale-105"
                 loading="lazy"
@@ -50,7 +51,7 @@ export default function Gallery({ gallery }) {
             ×
           </button>
           <img
-            src={lightbox.src}
+            src={withBase(lightbox.src)}
             alt={lightbox.alt}
             className="max-w-full max-h-[85vh] object-contain"
             onClick={(e) => e.stopPropagation()}

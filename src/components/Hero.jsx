@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { withBase } from '@/lib/basePath';
 
 export default function Hero({ hero, site }) {
   const [loaded, setLoaded] = useState(false);
@@ -20,7 +21,7 @@ export default function Hero({ hero, site }) {
     >
       {/* Background image */}
       <img
-        src={hero.image}
+        src={withBase(hero.image)}
         alt={site.name}
         className="absolute inset-0 w-full h-full object-cover object-center"
       />
