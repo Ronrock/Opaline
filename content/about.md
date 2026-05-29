@@ -12,27 +12,24 @@ interiorsBody:
   - "The open-plan living and dining area merges seamlessly with a fully-equipped kitchen, while the four bedrooms — each with ensuite bathroom — offer a quiet refuge after days spent exploring the island's hidden coves and ancient villages."
 features:
   - icon: "🛏"
-    label: 2 Bedrooms
-    desc: Ensuite king & twin rooms
+    label: 3 Bedrooms
+    desc: 2 bedrooms in the main house, and 1 studio
   - icon: "🛁"
     label: 2 Bathrooms
     desc: Marble-appointed & fully equipped
-  - icon: "♾"
-    label: Private Pool
-    desc: "Heated infinity pool, 11 × 4 m"
   - icon: "🌊"
-    label: Sea Views
-    desc: Panoramic Ionian vistas
+    label: Private Pool
+    desc: "Heated infinity pool, 11 × 4.5 m"
   - icon: "🏡"
-    label: 280 m²
+    label: 120 m²
     desc: Indoor living space
   - icon: "🌿"
     label: Private Garden
     desc: Olive groves & fragrant terraces
   - icon: "🚗"
     label: Private Parking
-    desc: Secure on-site for 2 cars
+    desc: Secure on-site for multiple cars
   - icon: "📶"
     label: High-Speed WiFi
-    desc: Throughout the entire ßß
+    desc: Throughout the entire villa
 ---
