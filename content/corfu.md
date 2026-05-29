@@ -6,10 +6,6 @@ footerNote: All distances are approximate from Villa Opaline, Agios Ioannis
 categories:
   - name: Beaches
     items:
-      - name: Kalamaki Beach
-        distance: 5 min walk
-        tag: Local Favourite
-        desc: A tranquil sandy cove framed by cypress trees — perfect for a quiet morning swim before the day begins.
       - name: Glyfada Beach
         distance: 15 min drive
         tag: Popular
@@ -18,16 +14,20 @@ categories:
         distance: 25 min drive
         tag: Unmissable
         desc: A breathtaking series of turquoise coves and dramatic limestone cliffs — widely considered the jewel of Corfu.
+      - name: Kontogiolos Beach
+        distance: 15 min drive
+        tag: Our favorite
+        desc: A west-coast beach of fine golden sand, with calm, crystal-clear water ideal for snorkelling. Quieter than neighbouring Glyfada beach and well worth the visit.
       - name: Canal d'Amour
         distance: 45 min drive
         tag: Romantic
         desc: Romantic sandstone rock formations carved by the sea near Sidari, legend has it couples who swim here will marry.
   - name: Dining
     items:
-      - name: Etrusco
-        distance: 35 min drive
-        tag: Fine Dining
-        desc: "Consistently ranked among Greece's finest restaurants, chef Hector Botrini's Etrusco offers creative Mediterranean cuisine in an enchanting garden setting."
+      - name: Costas Taverna - Agios Ioannis
+        distance: 5 min drive
+        tag: Family Taverna
+        desc: "A small traditional family owned taverna in the town of Agios Ioannis. A familiy favorite!"
       - name: Ninos on the Beach
         distance: 30 min drive
         tag: Seafood
@@ -45,7 +45,7 @@ categories:
       - name: Corfu Old Town
         distance: 20 min drive
         tag: UNESCO Heritage
-        desc: "A labyrinthine Venetian old town, a UNESCO World Heritage Site, filled with elegant arcades, Byzantine churches, and the timeless Liston promenade."
+        desc: "A labyrinthine Venetian old town, a UNESCO World Heritage Site, filled with elegant arcades, Byzantine churches, great restaurants, and the timeless Liston promenade."
       - name: Achilleion Palace
         distance: 25 min drive
         tag: Historic
