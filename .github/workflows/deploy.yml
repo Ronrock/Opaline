@@ -33,9 +33,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          # Change this to '' if you use a custom domain (e.g. villaopaline.com)
-          # Keep as /Opaline if deploying to username.github.io/Opaline
-          NEXT_PUBLIC_BASE_PATH: /Opaline
+          NEXT_PUBLIC_BASE_PATH: ''
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
