@@ -18,10 +18,6 @@ categories:
         distance: 15 min drive
         tag: Our favorite
         desc: A west-coast beach of fine golden sand, with calm, crystal-clear water ideal for snorkelling. Quieter than neighbouring Glyfada beach and well worth the visit.
-      - name: Canal d'Amour
-        distance: 50 min drive
-        tag: Romantic
-        desc: Romantic sandstone rock formations carved by the sea near Sidari, legend has it couples who swim here will marry.
       - name: Barbati Beach
         distance: 30 min drive
         tag: Popular
