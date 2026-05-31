@@ -8,7 +8,7 @@ interiorsLabel: Interiors
 interiorsHeadingLine1: Crafted for
 interiorsHeadingLine2: Effortless Living
 interiorsBody:
-  - "The luxurious interior of Villa Opaline reflect the timeless palette of the Greek landscape — cool white plaster, warm stone floors, . Each room breathes with natural light, flowing through the big windows and high ceilings"
+  - "The luxurious interior of Villa Opaline reflect the timeless palette of the Greek landscape — cool white plaster, warm stone floors. Each room breathes with natural light, flowing through the big windows and high ceilings"
   - "The open-plan living and dining area merges seamlessly with a fully-equipped kitchen, while the 2 bedrooms offer a quiet refuge after days spent exploring the island's hidden coves and villages. Next to the main house there is a spacious studio with it's own toilet and bathroom."
 features:
   - icon: "🛏"
