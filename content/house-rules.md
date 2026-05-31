@@ -21,10 +21,13 @@ rules:
     desc: We regret that pets are not permitted at the villa. Please arrange for your companions to be cared for elsewhere during your stay.
   - icon: pool
     title: Pool Safety
-    desc: The infinity pool is exclusively for villa guests. Children must be supervised by an adult at all times. Swimming after midnight is not permitted. 
+    desc: The infinity pool is exclusively for villa guests. Children must be supervised by an adult at all times. Swimming after midnight is not permitted. Absolutely no stepping onto the infinity part of the pool, because of falling danger. 
   - icon: resources
     title: Conserve Resources
     desc: "Corfu's freshwater supply is precious. Please turn off lights, air conditioning, and taps when not in use. Your mindfulness is deeply appreciated."
+  - icon: sheep
+    title:  Keep the gate closed
+    desc: "Please keep the gate closed at all times, this is to prevent the roaming sheep and goats to enter the property. If they do enter, please gently persuade to go back out."
   - icon: damage
     title: Report Damage
     desc: Accidents happen. Please inform the host immediately of any damage or breakage so we can arrange a swift resolution and ensure the villa is perfect for you.
