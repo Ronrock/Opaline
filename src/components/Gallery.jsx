@@ -6,7 +6,7 @@ export default function Gallery({ gallery }) {
   const ref = useInView();
   const [lightbox, setLightbox] = useState(null);
 
-  // Group photos by category
+  // Group photos by category and sort by categoryOrder
   const photosByCategory = useMemo(() => {
     const grouped = {};
     gallery.photos.forEach(photo => {
@@ -16,8 +16,26 @@ export default function Gallery({ gallery }) {
       }
       grouped[category].push(photo);
     });
+
+    // Sort categories based on categoryOrder if provided
+    if (gallery.categoryOrder && Array.isArray(gallery.categoryOrder)) {
+      const ordered = {};
+      gallery.categoryOrder.forEach(category => {
+        if (grouped[category]) {
+          ordered[category] = grouped[category];
+        }
+      });
+      // Add any categories not in categoryOrder at the end
+      Object.keys(grouped).forEach(category => {
+        if (!ordered[category]) {
+          ordered[category] = grouped[category];
+        }
+      });
+      return ordered;
+    }
+
     return grouped;
-  }, [gallery.photos]);
+  }, [gallery.photos, gallery.categoryOrder]);
 
   return (
     <section id="gallery" className="bg-cream-dark py-24 md:py-32" ref={ref}>
