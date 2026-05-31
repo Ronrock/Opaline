@@ -66,10 +66,6 @@ photos:
     alt: Villa view
     category: Outside
     span: ""
-  - src: /assets/809461417.jpg
-    alt: Pool view
-    category: Pool
-    span: col-span-2
   - src: /assets/809461378.jpg
     alt: Living area
     category: Living Areas
@@ -84,16 +80,8 @@ photos:
     span: ""
   - src: /assets/816169377.jpg
     alt: Villa exterior
-    category: Outside
+    category: Garden
     span: col-span-2
-  - src: /assets/856948416.jpg
-    alt: Bedroom suite
-    category: Bedrooms
-    span: ""
-  - src: /assets/856948420.jpg
-    alt: Outdoor area
-    category: Outside
-    span: ""
   - src: /assets/856948426.jpg
     alt: Terrace view
     category: Outside
