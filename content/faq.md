@@ -19,7 +19,7 @@ faqs:
   - q: Is WiFi available throughout the villa?
     a: "Yes, high-speed fibre broadband WiFi is available throughout all indoor spaces, details will be provided before check-in day"
   - q: Are bed linens and towels provided?
-    a: "Yes. All beds are made up with linens, and bathroom towels are provided for all guests. Pool towels are also available."
+    a: "Yes. All beds are made up with linens, and bathroom towels are provided for all guests. Pool towels are also available. Caring for the environment, we provide one set of towels per person (plus pool towels). However the guests are free to drop them in the washing machine during their stay."
   - q: Is there air conditioning?
     a: "All bedrooms and the main living area are equipped with individual air conditioning units. We ask that you keep windows and doors closed while air conditioning is running, and switch units off when leaving a room."
   - q: Is outdoor dining possible at the villa?
