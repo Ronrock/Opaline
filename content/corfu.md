@@ -22,6 +22,10 @@ categories:
         distance: 50 min drive
         tag: Romantic
         desc: Romantic sandstone rock formations carved by the sea near Sidari, legend has it couples who swim here will marry.
+      - name: Barbati Beach
+        distance: 30 min drive
+        tag: Popular
+        desc: One of the most beautiful and popular pebble beaches on the northeast coast of the Greek island of Corfu. It lies right at the foot of Mount Pantokrator, and is famous for its crystal-clear water and stunning green mountain backdrop.
   - name: Dining
     items:
       - name: Costas Taverna - Agios Ioannis
