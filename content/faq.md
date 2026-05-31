@@ -27,5 +27,5 @@ faqs:
   - q: How does the gas barbecue work?
     a: "Please make sure that before use you open the main valve for the gas (in the cupboard below the barbecue) and close it after use"
   - q: Are there many mosquitos?
-    a: "Mosquitoes are common in Corfu due to the island's lush greenery and humidity. They are most active at dusk and near stagnant water. Pack a high-DEET repellent, use plug-in vaporizers in your room. We provide plug-in vaporizers (including tablets), which are in the cupboard under the sink in the bathroom. Our advice is to replace the tablets and plug in the vaporizers starting dusk, keep the windows closed for the vaporizers to be effective. Next to that it is always best to keep the insect screens closed at all times, especially in the eveni "  
+    a: "Mosquitoes are common in Corfu due to the island's lush greenery and humidity. They are most active at dusk and near stagnant water. Pack a high-DEET repellent, use plug-in vaporizers in your room. We provide plug-in vaporizers (including tablets), which are in the cupboard under the sink in the bathroom. Our advice is to replace the tablets and plug in the vaporizers starting dusk, keep the windows closed for the vaporizers to be effective. Next to that it is always best to keep the insect screens closed at all times, especially in the evening."  
 ---
