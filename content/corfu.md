@@ -6,6 +6,10 @@ footerNote: All distances are approximate from Villa Opaline, Agios Ioannis
 categories:
   - name: Beaches
     items:
+      - name: Kontogiolos Beach
+        distance: 15 min drive
+        tag: Our favorite
+        desc: A west-coast beach of fine golden sand, with calm, crystal-clear water ideal for snorkelling. Quieter than neighbouring Glyfada beach and well worth the visit.
       - name: Glyfada Beach
         distance: 15 min drive
         tag: Popular
@@ -14,10 +18,6 @@ categories:
         distance: 25 min drive
         tag: Unmissable
         desc: A breathtaking series of turquoise coves and dramatic limestone cliffs — widely considered the jewel of Corfu.
-      - name: Kontogiolos Beach
-        distance: 15 min drive
-        tag: Our favorite
-        desc: A west-coast beach of fine golden sand, with calm, crystal-clear water ideal for snorkelling. Quieter than neighbouring Glyfada beach and well worth the visit.
       - name: Barbati Beach
         distance: 30 min drive
         tag: Popular
