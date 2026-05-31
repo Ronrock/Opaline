@@ -1,7 +1,7 @@
 ---
 sectionLabel: The Villa
 heading: A Private Sanctuary
-description: "Nestled in the serene hillside village of Agios Ioannis on the west coast of Corfu, Villa Opaline offers an unrivalled blend of Ionian beauty and contemporary luxury. Surrounded by ancient olive trees and fragrant gardens, the villa unfolds across three terraces that cascade toward a shimmering infinity pool — and beyond, the endless blue of the Ionian Sea."
+description: "Nestled in the serene hillside village of Agios Ioannis on the west coast of Corfu, Villa Opaline offers an unrivalled blend of Ionian beauty and contemporary luxury. Surrounded by ancient olive trees and a spacious fragrant garden, the villa opens into a big and luxurius terrace with a infinity pool."
 image: /assets/816169377.jpg
 imageAlt: Villa exterior
 interiorsLabel: Interiors
