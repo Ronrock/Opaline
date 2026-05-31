@@ -72,12 +72,12 @@ categories:
         distance: Agios Gordios
         tag: Adventure
         desc: Guided or self-guided sea kayak tours along the rugged west coast, paddling through sea arches and into otherwise inaccessible coves.
-      - name: Olive Oil Tasting
-        distance: 15 min drive
-        tag: Cultural
-        desc: "Visit one of the island's historic olive oil presses for a guided tasting of Corfu's liquid gold — one of Greece's finest."
-      - name: Corfu Town Food Walk
-        distance: 20 min drive
+      - name: Theotoky Estate (wine tasting
+        distance: 12 min drive
         tag: Culinary
-        desc: "A guided stroll through the Old Town market, sampling kumquat liqueur, local cheeses, Corfiot sweets, and street food favourites."
+        desc: "The Theotoky Estate is a historic 300-acre estate located in the fertile Ropa Valley on the island of Corfu, Greece. It is highly regarded as one of the oldest wineries in the country and is celebrated for its commitment to organic and biodynamic agriculture."
+      - name: Aqua land
+        distance: 2 min drive
+        tag: Swimming
+        desc: "One of the largest and most popular water parks in Europe, covering over 75,000 square meters in the center of Corfu island. Surrounded by lush maple trees, the park features 51 water slides, multiple swimming pools, a dedicated kids' zone, and one of the world's largest wave pools."
 ---
