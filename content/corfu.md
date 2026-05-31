@@ -59,7 +59,7 @@ categories:
         tag: Panoramic Views
         desc: "A hilltop viewpoint above Pelekas favoured by Kaiser Wilhelm II, offering arguably the finest 360° sunset views on the island."
       - name: Angelokastro
-        distance: 8 min drive
+        distance: 35 min drive
         tag: Ruins
         desc: "A dramatic 13th-century Byzantine fortress perched on a clifftop headland just north of Paleokastritsa, with spectacular coastal views."
   - name: Activities
