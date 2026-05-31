@@ -30,5 +30,6 @@ faqs:
     a: "Mosquitoes are common in Corfu due to the island's lush greenery and humidity. They are most active at dusk and near stagnant water. Pack a high-DEET repellent, use plug-in vaporizers in your room. We provide plug-in vaporizers (including tablets), which are in the cupboard under the sink in the bathroom. Our advice is to replace the tablets and plug in the vaporizers starting dusk, keep the windows closed for the vaporizers to be effective. Next to that it is always best to keep the insect screens closed at all times, especially in the evening."
   - q: What do we do with the garbage?
     a: "There are 2 bins at the back of the house. You can deposit the bags in there. On the way towards Aqualand there are big bins next to the road. To prevent insects and smells we advice you to deposit your bags in the roadside bins."  
-    
+  - q: There is a camera pointed at the gate, are you recording?
+    a: "No, during visits the camera is turned off. The camera is there for security reasons for when the property is not rented out."  
 ---
