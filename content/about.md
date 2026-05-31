@@ -12,8 +12,11 @@ interiorsBody:
   - "The open-plan living and dining area merges seamlessly with a fully-equipped kitchen, while the 2 bedrooms offer a quiet refuge after days spent exploring the island's hidden coves and villages. Next to the main house there is a spacious studio with it's own toilet and bathroom."
 features:
   - icon: "🛏"
-    label: 3 Bedrooms
-    desc: 2 bedrooms in the main house, and 1 studio
+    label: Main house
+    desc: 2 bedrooms (2 double beds)
+  - icon: "🛏"
+    label: Studio
+    desc: 1 bedroom (1 double bed)
   - icon: "🛁"
     label: 2 Bathrooms
     desc: Fully equipped
@@ -32,4 +35,7 @@ features:
   - icon: "📶"
     label: High-Speed WiFi
     desc: Throughout the entire villa
+  - icon: "📶"
+    label: Terrace
+    desc: Dining area with gas barbeque
 ---
