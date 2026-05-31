@@ -32,21 +32,21 @@ categories:
         distance: 5 min drive
         tag: Family Taverna
         desc: "A small traditional family owned taverna in the town of Agios Ioannis. A familiy favorite!"
-      - name: Ninos on the Beach
-        distance: 30 min drive
-        tag: Seafood
-        desc: A much-loved Corfu Town institution serving impeccably fresh seafood. Reserve the terrace overlooking Garitsa Bay.
-      - name: Klimataria
+      - name: Rosmarino - Corfu Town
+        distance: 20 min drive
+        tag: Family favorite!
+        desc: An authentic Italian restaurant hidden away in a charming square in the historic center of Corfu Town. It is famous for its romantic atmosphere, slow-rise sourdough pizzas, and daily handmade fresh pasta.
+      - name: Brisk - Corfu Town
         distance: 20 min drive
         tag: Traditional
-        desc: "A hidden gem in a medieval alley of Old Corfu Town, serving authentic Corfiot dishes — sofrito, pastitsada, and bourdeto — for over 70 years."
-      - name: Taverna tou Foti
-        distance: 10 min drive
-        tag: Local Gem
-        desc: "A family-run taverna in the hills above Agios Ioannis, beloved for its slow-roasted lamb, homemade wine, and genuinely warm hospitality."
+        desc: "Traditional Greek comfort food and gives it a innovative, contemporary twist. It balances the refinement of upscale creative dining with the welcoming, unpretentious charm of a traditional Greek neighborhood tavern."
+      - name: To Gefiri
+        distance: 5 min drive
+        tag: Local favorite
+        desc: "Authentic local Greek and Corfiot grill specialties. Relaxed outdoor terrace seating, child-friendly environment."
   - name: Sights
     items:
-      - name: Corfu Old Town
+      - name: Corfu Old Town.
         distance: 20 min drive
         tag: UNESCO Heritage
         desc: "A labyrinthine Venetian old town, a UNESCO World Heritage Site, filled with elegant arcades, Byzantine churches, great restaurants, and the timeless Liston promenade."
