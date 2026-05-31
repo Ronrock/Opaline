@@ -35,7 +35,7 @@ features:
   - icon: "📶"
     label: High-Speed WiFi
     desc: Throughout the entire villa
-  - icon: "📶"
+  - icon: "🍴"
     label: Terrace
     desc: Dining area with gas barbeque
 ---
